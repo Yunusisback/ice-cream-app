@@ -1,8 +1,37 @@
+🍦 Ice Cream Shop
+
+A delightful React application showcasing comprehensive unit testing practices with a sweet ice cream theme! This project demonstrates modern React development with a focus on test-driven development and code quality.
+
+✨ Features
+
+🧪 Comprehensive Unit Testing - Complete test coverage with React Testing Library
+🛒 Shopping Cart Functionality - Add, remove, and manage your ice cream orders
+⚡ Fast Performance - Optimized React components for smooth user experience
+🔧 Easy Testing Setup - Well-structured test files for learning and contribution
+
+
+
+![ice-cream](https://github.com/user-attachments/assets/5a942514-ac5c-406e-a524-6f22cfafe34f)
+
+
+
+
+
+# Library versions
+
+ - "@testing-library/user-event": "^14.6.1"
+ - "axios": "^1.11.0"
+ - "bootstrap": "^5.3.8"
+ - "json-server": "^1.0.0-beta.3"
+ -  bootstrap 
+
+
+
 # TDD ve BDD: Yazılım Geliştirme Yaklaşımları
 
 Bu yaklaşımlar yazılımı daha sağlam ve hatasız hale getirmemize yardımcı olur
 
-##  TDD (Test Odaklı Geliştirme)
+##  TDD ( Test Driven Development )
 TDD, **kodun kendisini test etmeye odaklanan** bir yaklaşımdır ve genellikle **Red → Green → Refactor** döngüsü ile ilerler.
 
 1. **Önce Test Yazılır sonra kodlanır**  
@@ -21,7 +50,7 @@ TDD, **kodun kendisini test etmeye odaklanan** bir yaklaşımdır ve genellikle 
 
 
 
-##  BDD (Davranış Odaklı Geliştirme)
+##  BDD (Behaviour Driven Development)
  **kullanıcı senaryolarına ve davranışlarına odaklanan** bir yaklaşımdır.
 
  - **önce özellik sonra test** 
@@ -31,29 +60,31 @@ TDD, **kodun kendisini test etmeye odaklanan** bir yaklaşımdır ve genellikle 
 - **Senaryo Formatı:** Genellikle `Given → When → Then` formatında olur.
 
 
-# Library versions
 
- - "@testing-library/user-event": "^14.6.1"
- - "axios": "^1.11.0"
- - "bootstrap": "^5.3.8"
- - "json-server": "^1.0.0-beta.3"
- - server sürümleri gösterebilir
- - bootstrap 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# ice-cream-app
