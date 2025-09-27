@@ -5,8 +5,11 @@ A delightful React application showcasing comprehensive unit testing practices w
 ✨ Features
 
 🧪 Comprehensive Unit Testing - Complete test coverage with React Testing Library
+
 🛒 Shopping Cart Functionality - Add, remove, and manage your ice cream orders
+
 ⚡ Fast Performance - Optimized React components for smooth user experience
+
 🔧 Easy Testing Setup - Well-structured test files for learning and contribution
 
 
