@@ -26,7 +26,7 @@ A delightful React application showcasing comprehensive unit testing practices w
  - "axios": "^1.11.0"
  - "bootstrap": "^5.3.8"
  - "json-server": "^1.0.0-beta.3"
- -  bootstrap 
+ -  bootstrap : "^5.3.8"
 
 
 
